@@ -1,0 +1,456 @@
+{
+    "reel_1": [
+        {
+            "description": "Wide shot of Kala Ban village during sunset, decorated with colorful lights and clay lamps for Winter Daan festival. A car approaches on the dusty road.",
+            "narration": "Aarav and Meera arrive at their ancestral village during the Winter Daan festival celebrations",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "Look at all the lights, Aarav! Just like how mom described it.",
+            "audio_cue_character": "Meera",
+            "location_description": "Village entrance adorned with marigold garlands, clay lamps lining the path, and traditional rangoli designs on ground",
+            "character_expression": {
+                "Aarav": "mild boredom",
+                "Meera": "excitement"
+            }
+        },
+        {
+            "description": "Medium shot of elderly villagers performing rituals near forest edge, placing clay lamps in a specific pattern",
+            "narration": "Villagers perform the traditional lamp offering ritual at the forest boundary",
+            "characters": [
+                "Village Elders",
+                "Uncle Rajesh"
+            ],
+            "audio_cue_text": "Every lamp keeps the darkness at bay, children. Remember that.",
+            "audio_cue_character": "Uncle Rajesh",
+            "location_description": "Forest edge with ancient stone markers, smoke from incense creating mystical atmosphere",
+            "character_expression": {
+                "Uncle Rajesh": "serious concern"
+            }
+        },
+        {
+            "description": "Close-up of Uncle Rajesh's weathered face illuminated by lamp light as he warns the teenagers",
+            "narration": "Uncle shares the first warning about the Ban Devta",
+            "characters": [
+                "Uncle Rajesh",
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "The Devta protects us... as long as we obey the rules.",
+            "audio_cue_character": "Uncle Rajesh",
+            "location_description": "Village temple courtyard with ceremonial fire in background",
+            "character_expression": {
+                "Uncle Rajesh": "grave",
+                "Aarav": "skeptical",
+                "Meera": "intrigued"
+            }
+        },
+        {
+            "description": "Aarav rolling his eyes during prayer ceremony, fidgeting with his phone while others pray",
+            "narration": "Aarav shows disinterest in the traditional ceremonies",
+            "characters": [
+                "Aarav",
+                "Meera",
+                "Villagers"
+            ],
+            "audio_cue_text": "This is so boring. Let's explore the forest instead.",
+            "audio_cue_character": "Aarav",
+            "location_description": "Temple premises with prayer ceremony in progress",
+            "character_expression": {
+                "Aarav": "bored and restless",
+                "Meera": "hesitant"
+            }
+        },
+        {
+            "description": "Tracking shot of Aarav pulling Meera by hand through dense forest vegetation",
+            "narration": "The teenagers venture into the forbidden forest despite warnings",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "Aarav, wait! We shouldn't be here!",
+            "audio_cue_character": "Meera",
+            "location_description": "Dense forest with twisted trees and mysterious fog at ground level",
+            "character_expression": {
+                "Aarav": "adventurous",
+                "Meera": "worried"
+            }
+        },
+        {
+            "description": "Wide shot revealing ancient shrine covered in thick roots and vines, emanating an eerie atmosphere",
+            "narration": "Discovery of the forgotten shrine deep in the forest",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "Whoa, look at this! It must be centuries old!",
+            "audio_cue_character": "Aarav",
+            "location_description": "Clearing in forest with ancient stone shrine, roots wrapped around structure",
+            "character_expression": {
+                "Aarav": "fascinated",
+                "Meera": "uneasy"
+            }
+        },
+        {
+            "description": "Close-up of brass anklet partially buried in soil, glinting mysteriously in filtered sunlight",
+            "narration": "The forbidden relic is discovered",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "Don't touch it, Aarav. Please.",
+            "audio_cue_character": "Meera",
+            "location_description": "Base of shrine with disturbed soil and ancient markings visible",
+            "character_expression": {
+                "Aarav": "curious",
+                "Meera": "frightened"
+            }
+        },
+        {
+            "description": "Dynamic shot of sudden wind gust extinguishing forest lamps, leaves swirling ominously",
+            "narration": "The supernatural presence makes itself known",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "You dare disturb me?",
+            "audio_cue_character": "Ban Devta",
+            "location_description": "Darkening forest with extinguished lamps and swirling leaves",
+            "character_expression": {
+                "Aarav": "startled",
+                "Meera": "terrified"
+            }
+        },
+        {
+            "description": "Low-angle shot of forest canopy darkening unnaturally, shadows moving between trees",
+            "narration": "The forest comes alive with supernatural energy",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "The trees... they're moving!",
+            "audio_cue_character": "Meera",
+            "location_description": "Forest canopy with unnatural darkness spreading, shadows forming patterns",
+            "character_expression": {
+                "Aarav": "disbelief",
+                "Meera": "panic"
+            }
+        },
+        {
+            "description": "Close-up of Meera's terrified face as she spots something in the darkness, Aarav visible in background",
+            "narration": "The presence of Ban Devta becomes undeniable",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "Aarav... something's watching us.",
+            "audio_cue_character": "Meera",
+            "location_description": "Dark forest with glowing eyes visible in shadows",
+            "character_expression": {
+                "Aarav": "frozen fear",
+                "Meera": "pure terror"
+            }
+        }
+    ],
+    "reel_2": [
+        {
+            "description": "Extreme close-up of festival decorations where normal patterns are morphing into eerie symbols, focus on a rangoli design transforming",
+            "narration": "Strange symbols begin appearing in everyday decorations",
+            "characters": [
+                "Aarav"
+            ],
+            "audio_cue_text": "Am I going crazy, or did that pattern just... change?",
+            "audio_cue_character": "Aarav",
+            "location_description": "Interior of family home, walls decorated with traditional art and festival ornaments",
+            "character_expression": {
+                "Aarav": "confused disbelief"
+            }
+        },
+        {
+            "description": "Medium shot of Meera in hallway, hands pressed against her ears, wind visibly moving her hair",
+            "narration": "Meera begins hearing supernatural whispers",
+            "characters": [
+                "Meera"
+            ],
+            "audio_cue_text": "Return what was taken... return... return...",
+            "audio_cue_character": "Whispers in the Wind",
+            "location_description": "Dimly lit hallway with shadows playing on walls",
+            "character_expression": {
+                "Meera": "distressed"
+            }
+        },
+        {
+            "description": "Wide shot of grandmother sitting in traditional chair, telling story by oil lamp, children gathered around",
+            "narration": "The truth about Ban Devta's curse is revealed through family history",
+            "characters": [
+                "Grandmother",
+                "Aarav",
+                "Meera",
+                "Young Cousins"
+            ],
+            "audio_cue_text": "Two hundred years ago, our ancestors made a terrible mistake...",
+            "audio_cue_character": "Grandmother",
+            "location_description": "Traditional living room with antique furniture and family photos",
+            "character_expression": {
+                "Grandmother": "solemn",
+                "Aarav": "intense focus",
+                "Meera": "growing realization"
+            }
+        },
+        {
+            "description": "Stylized flashback scene showing villagers stealing anklet from ancient shrine",
+            "narration": "The story of the village's betrayal is shown in flashback",
+            "characters": [
+                "Ancient Villagers",
+                "Ban Devta's Shadow"
+            ],
+            "audio_cue_text": "They thought the anklet's power would protect them forever.",
+            "audio_cue_character": "Grandmother (voiceover)",
+            "location_description": "Historical version of forest shrine, rendered in muted sepia tones",
+            "character_expression": {
+                "Ancient Villagers": "greed and fear"
+            }
+        },
+        {
+            "description": "Tracking shot following clay lamps going out in sequence along village path",
+            "narration": "Supernatural presence grows stronger in the village",
+            "characters": [
+                "Worried Villagers"
+            ],
+            "audio_cue_text": "The lamps won't stay lit... it's happening again!",
+            "audio_cue_character": "Village Elder",
+            "location_description": "Village street with traditional houses and gathering darkness",
+            "character_expression": {
+                "Village Elder": "dread"
+            }
+        },
+        {
+            "description": "Close-up of Aarav discovering hidden scroll in shrine's secret compartment",
+            "narration": "A crucial clue is found in the ancient shrine",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "Look! 'The Tree of Truth lies at the forest's heart.'",
+            "audio_cue_character": "Aarav",
+            "location_description": "Interior of damaged shrine with mysterious carvings visible",
+            "character_expression": {
+                "Aarav": "excitement",
+                "Meera": "cautious hope"
+            }
+        },
+        {
+            "description": "Low angle shot of villagers gathering in groups, looking at darkening sky",
+            "narration": "The village collectively senses the approaching danger",
+            "characters": [
+                "Villagers",
+                "Uncle Rajesh"
+            ],
+            "audio_cue_text": "Everyone inside! The Devta is awakening!",
+            "audio_cue_character": "Uncle Rajesh",
+            "location_description": "Village square with ominous storm clouds gathering above",
+            "character_expression": {
+                "Uncle Rajesh": "authoritative fear"
+            }
+        },
+        {
+            "description": "Close-up of mysterious footprints appearing in dust, moving towards camera",
+            "narration": "The Ban Devta's presence becomes physical",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "The footprints... they're appearing by themselves!",
+            "audio_cue_character": "Meera",
+            "location_description": "Dusty floor of family home's entrance",
+            "character_expression": {
+                "Aarav": "stunned",
+                "Meera": "horrified"
+            }
+        },
+        {
+            "description": "Medium shot of shadows forming massive figure on wall, growing larger",
+            "narration": "The Ban Devta's form manifests through shadows",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "Don't move... maybe it can't see us...",
+            "audio_cue_character": "Aarav",
+            "location_description": "Corner of dark room with moonlight casting shadows",
+            "character_expression": {
+                "Aarav": "paralyzed fear",
+                "Meera": "trembling"
+            }
+        },
+        {
+            "description": "Extreme close-up of door slowly creaking open, revealing glowing eyes in darkness",
+            "narration": "The Ban Devta makes its terrifying entrance",
+            "characters": [
+                "Ban Devta",
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "You cannot escape.",
+            "audio_cue_character": "Ban Devta",
+            "location_description": "Doorway with supernatural darkness seeping in",
+            "character_expression": {
+                "Aarav": "pure terror",
+                "Meera": "frozen in fear"
+            }
+        }
+    ],
+    "reel_3": [
+        {
+            "description": "Dynamic wide shot of Aarav and Meera running through misty forest, branches whipping past them",
+            "narration": "The teenagers flee through the supernatural forest",
+            "characters": [
+                "Aarav",
+                "Meera",
+                "Ban Devta"
+            ],
+            "audio_cue_text": "Keep running! Don't look back!",
+            "audio_cue_character": "Aarav",
+            "location_description": "Dense forest at night with unnatural mist swirling around trees",
+            "character_expression": {
+                "Aarav": "determined panic",
+                "Meera": "exhausted fear"
+            }
+        },
+        {
+            "description": "Low-angle shot of trees violently shaking, massive shadow moving between them",
+            "narration": "The Ban Devta's pursuit intensifies",
+            "characters": [
+                "Ban Devta",
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "Your ancestors' debt must be paid!",
+            "audio_cue_character": "Ban Devta",
+            "location_description": "Forest canopy with supernatural movement, branches breaking",
+            "character_expression": {
+                "Aarav": "desperate",
+                "Meera": "terrified"
+            }
+        },
+        {
+            "description": "Reveal shot of ancient Tree of Truth, its roots glowing with ethereal blue light",
+            "narration": "Discovery of the mystical Tree of Truth",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "The Tree of Truth... it's real!",
+            "audio_cue_character": "Meera",
+            "location_description": "Sacred clearing with massive ancient tree, glowing roots creating patterns",
+            "character_expression": {
+                "Aarav": "awe",
+                "Meera": "wonder"
+            }
+        },
+        {
+            "description": "Close-up of Aarav placing anklet on glowing tree roots",
+            "narration": "The attempt to return the stolen relic",
+            "characters": [
+                "Aarav",
+                "Ban Devta"
+            ],
+            "audio_cue_text": "The bloodline of the betrayer must pay the price.",
+            "audio_cue_character": "Ban Devta",
+            "location_description": "Base of Tree of Truth with intricate root patterns",
+            "character_expression": {
+                "Aarav": "determined"
+            }
+        },
+        {
+            "description": "Medium shot of Meera's face as realization dawns, ancient markings on tree reflecting in her eyes",
+            "narration": "Meera discovers her ancestral connection to the curse",
+            "characters": [
+                "Meera"
+            ],
+            "audio_cue_text": "It was our family... we were the betrayers.",
+            "audio_cue_character": "Meera",
+            "location_description": "Before the Tree of Truth, ancient symbols glowing on bark",
+            "character_expression": {
+                "Meera": "shocking realization"
+            }
+        },
+        {
+            "description": "Wide shot of Meera stepping forward towards Ban Devta's looming form",
+            "narration": "Meera offers herself as sacrifice",
+            "characters": [
+                "Meera",
+                "Aarav",
+                "Ban Devta"
+            ],
+            "audio_cue_text": "Take me instead. End this curse.",
+            "audio_cue_character": "Meera",
+            "location_description": "Clearing with Ban Devta's massive form towering over teenagers",
+            "character_expression": {
+                "Meera": "brave resignation",
+                "Aarav": "horrified"
+            }
+        },
+        {
+            "description": "Extreme close-up of ancient scroll text revealing hidden message about courage",
+            "narration": "Discovery of the true solution",
+            "characters": [
+                "Aarav"
+            ],
+            "audio_cue_text": "'A pure act of courage breaks all bonds'... That's it!",
+            "audio_cue_character": "Aarav",
+            "location_description": "Scroll illuminated by tree's glow",
+            "character_expression": {
+                "Aarav": "sudden hope"
+            }
+        },
+        {
+            "description": "Action shot of Aarav lighting clay lamp, its light creating protective barrier",
+            "narration": "The final confrontation with the Ban Devta",
+            "characters": [
+                "Aarav",
+                "Ban Devta",
+                "Meera"
+            ],
+            "audio_cue_text": "Light defeats darkness, just like Uncle said!",
+            "audio_cue_character": "Aarav",
+            "location_description": "Clearing with lamp light pushing back supernatural darkness",
+            "character_expression": {
+                "Aarav": "triumphant",
+                "Meera": "amazed"
+            }
+        },
+        {
+            "description": "Close-up of anklet melting into tree roots, releasing sparks of light",
+            "narration": "The curse is broken",
+            "characters": [
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "It's over... we did it!",
+            "audio_cue_character": "Meera",
+            "location_description": "Base of Tree of Truth with magical energy dispersing",
+            "character_expression": {
+                "Aarav": "relief",
+                "Meera": "joy"
+            }
+        },
+        {
+            "description": "Final shot of village festival, focus on single flickering lamp in foreground",
+            "narration": "The ominous reminder that some things never end",
+            "characters": [
+                "Villagers",
+                "Aarav",
+                "Meera"
+            ],
+            "audio_cue_text": "The Devta never forgets...",
+            "audio_cue_character": "Whispered Voice",
+            "location_description": "Festive village scene with one mysteriously flickering lamp",
+            "character_expression": {
+                "Aarav": "uneasy",
+                "Meera": "concerned"
+            }
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+2024-12-25 11:02:57,216 - INFO - Received request to create documents
+2024-12-25 11:02:57,980 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 11:02:57,988 - INFO - Generated response from GroqModel
+2024-12-25 11:02:57,988 - INFO - Document created with ID: 101

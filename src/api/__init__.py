@@ -1,5 +1,6 @@
 from functools import wraps
 from fastapi import HTTPException
+from src.core import logger as custom_logger
 
 def exception_handler(func):
     @wraps(func)
@@ -13,3 +14,6 @@ def exception_handler(func):
                 detail="An error occurred while processing the request."
             )
     return wrapper
+
+
+LOGGER = custom_logger.initialize_logger("ai-server")

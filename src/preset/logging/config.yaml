@@ -1,0 +1,30 @@
+version: 1
+disable_existing_loggers: False
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    stream: ext://sys.stdout
+    formatter: standard
+  logfile:
+    class: logging.handlers.RotatingFileHandler
+    level: INFO
+    filename: ai-server.log
+    maxBytes: 1000000
+    backupCount: 3
+    formatter: standard
+
+formatters:
+  standard:
+    format: "%(asctime)s - %(levelname)s - %(message)s"
+
+root:
+  level: INFO
+  handlers: [console, logfile]
+
+loggers:
+  botocore:
+    level: INFO
+  urllib3:
+    level: INFO
